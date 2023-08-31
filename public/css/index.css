@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(89, 161, 163);
+}
+
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 20px;
+    color: goldenrod;
+    font-size: 30px;
+    
+
+}
+ .main{
+    background-color: darkcyan; 
+    max-width: 760px;
+    max-height: 550px;
+    padding-bottom: 25px;
+}
+label{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:500;
+    font-size: 18px;
+}
