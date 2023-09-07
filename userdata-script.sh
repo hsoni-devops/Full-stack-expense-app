@@ -13,7 +13,7 @@ export NVM_DIR="/home/ubuntu/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && . "$NVM_DIR/bash_completion"
 EOF
 source ~/.bashrc
-nvm install 18.12.1
+# nvm install 18.12.1
 # git clone https://github.com/hsoni-devops/Full-stack-expense-app.git
 # cd Full-stack-expense-app
 # git checkout development
