@@ -1,5 +1,4 @@
 #!/bin/bash
-cd /home/ubuntu/
 DEBIAN_FRONTEND=noninteractive apt-get update -y
 DEBIAN_FRONTEND=noninteractive sudo apt-get install mysql-client -y
 DEBIAN_FRONTEND=noninteractive curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
