@@ -10,13 +10,13 @@ export NVM_DIR="$HOME/.nvm"
 EOF
 source ~/.bashrc
 nvm install 18.12.1
-git clone https://github.com/hsoni-devops/Full-stack-expense-app.git
-cd Full-stack-expense-app
-git checkout development
-node --version
-npm i
-npm link razorpay
-npm install pm2@latest -g
-pm2 start app.js
-pm2 startup
-pm2 save
+# git clone https://github.com/hsoni-devops/Full-stack-expense-app.git
+# cd Full-stack-expense-app
+# git checkout development
+# node --version
+# npm i
+# npm link razorpay
+# npm install pm2@latest -g
+# pm2 start app.js
+# pm2 startup
+# pm2 save
