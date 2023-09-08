@@ -14,7 +14,7 @@ const orders = require('./models/orders');
 const ForgetPassReq = require('./models/forgetPassReq');
 const premiumRouter = require('./routes/buyprimium');
 
-const port = 4000;
+const port = process.env.PORT;
 const app = express();
 
 
