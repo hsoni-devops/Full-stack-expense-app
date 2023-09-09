@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/ubuntu/Fullstack-expense-app
+cd /home/ubuntu/Full-stack-expense-app
 
 echo "Installing dependencies"
 
