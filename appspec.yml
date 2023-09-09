@@ -2,7 +2,7 @@ version: 0.0
 os: linux 
 files:
   - source: /
-    destination: /home/ubuntu/Fullstack-expense-app
+    destination: /home/ubuntu/Full-stack-expense-app
 hooks:
   BeforeInstall:
     - location: scripts/before_install.sh
