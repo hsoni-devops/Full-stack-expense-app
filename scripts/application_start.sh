@@ -3,4 +3,4 @@ cd /home/ubuntu/Full-stack-expense-app
 
 echo "Restarting application"
 
-pm2 restart app.js
+sudo -i PM2_HOME=/etc/.pm2 pm2 restart 0
